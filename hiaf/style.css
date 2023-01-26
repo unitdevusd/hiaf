@@ -9268,9 +9268,9 @@ a.text-dark:hover {
   }
 }
 .btn-primary {
-  background: #048C3F;
+  background: #9ba791;
   color: #fff;
-  border: 1px solid #048C3F;
+  border: 1px solid #9ba791;
   padding: 11px 24px;
   border-radius: 0;
   font-weight: 400;
@@ -9530,7 +9530,7 @@ footer.sitefooter .mainfooter ul li a {
   background: #8ccee9;
 }
 .preciousdental header.siteheader {
-  background: #048C3F;
+  background: #9ba791;
   padding: 15px 45px;
 }
 .preciousdental img.mainlogo {
@@ -9900,7 +9900,7 @@ div#appointment-form h2 {
   }
 }
 footer.sitefooter {
-  background: #048C3F;
+  background: #9ba791;
   padding: 45px 0 0;
   color: #fff;
   font-weight: 300;
@@ -9934,13 +9934,13 @@ footer#footer-section ul li {
   font-size: 14px;
 }
 .footer-bottom {
-  background: #048C3F;
+  background: #9ba791;
   padding-top: 15px;
 }
 .footer-col p {
   font-size: 14px;
-  color: #000;
-  text-shadow: -1px -1px 0 #32CD32, 1px -1px 0 #32CD32, -1px 1px 0 #32CD32, 1px 1px 0 #32CD32;
+  color: #fff;
+  text-shadow: -1px -1px 0 #c4c4bc, 1px -1px 0 #c4c4bc, -1px 1px 0 #c4c4bc, 1px 1px 0 #c4c4bc;
   }
 }
 .Useful-link ul.useful-list li a {
@@ -13134,13 +13134,13 @@ ul.socialicon li a {
 .join-btn:focus {
   box-shadow: none;
   background-color: inherit;
-  color: #048C3F;
-  border-color: #048C3F;
+  color: #9ba791;
+  border-color: #9ba791;
 }
 .join-btn:hover {
   background-color: inherit;
-  border-color: #048C3F;
-  color: #048C3F;
+  border-color: #9ba791;
+  color: #9ba791;
 }
 .abunit h2 {
   margin-bottom: 20px;
@@ -13187,7 +13187,7 @@ html {
   padding-left: 10px;
 }
 .modal .submit {
-  background-color: #048C3F;
+  background-color: #9ba791;
   color: #fff;
   display: inline-block;
   padding: 10px 30px;
@@ -13629,7 +13629,7 @@ img {
 }
 section.headertop {
   height: 100%;
-  background: #048C3F;
+  background: #9ba791;
   color: #fff;
   /* margin:0;
   padding:0; */
@@ -13645,7 +13645,7 @@ section.headertop {
   left: 10%;
 }
 .mainheading h2 {
-  color: #048C3F;
+  color: #9ba791;
   padding-bottom: 30px;
   max-width: 540px;
   font-size: 42px;
@@ -13673,7 +13673,7 @@ section.headertop {
   padding-top: 60px;
 }
 .basecolm {
-  background: #048C3F;
+  background: #9ba791;
   height: 100%;
 }
 .aboutunitsec {
@@ -13756,7 +13756,7 @@ h3.widget-title {
   margin-right: 15px;
 }
 .caption h3 {
-  color: #048C3F;
+  color: #9ba791;
   font-size: 36px;
 }
 .toparrow {
@@ -13778,7 +13778,7 @@ section.headertop p {
 }
 .headertop ul li a {
   color: #fff;
-  font-size: 22px;
+  font-size: 32px;
 }
 .headertop ul {
   text-align: right;
@@ -13922,7 +13922,7 @@ textarea {
     padding: 30px 0;
   }
   .preciousdental header.siteheader {
-    background: #048C3F;
+    background: #9ba791;
     padding: 15px 5px;
   }
   section.headertop {
@@ -13939,7 +13939,7 @@ textarea {
     text-align: center;
   }
   .caption h3 {
-    color: #048C3F;
+    color: #9ba791;
     font-size: 28px;
   }
   .clientsay .basecolm span {
@@ -13961,7 +13961,7 @@ textarea {
     font-weight: 300;
     font-size: 16px;
     margin-top: 0;
-    background: #048C3F;
+    background: #9ba791;
     padding: 15px 0 0;
     color: #fff;
   }
@@ -14007,14 +14007,14 @@ textarea {
   text-align: left;
 }
 .privacy-text {
-  color: #048C3F;
+  color: #9ba791;
 }
 .unit-app {
   text-align: center;
 }
 
 header.sticky{
-  background: #048C3F;
+  background: #9ba791;
   padding: 10px 200px;
 }
 
@@ -14089,7 +14089,7 @@ body{
 
 
 .services .content .card .service-icon{
-    color: #048C3F;
+    color: #9ba791;
     font-size: 5em;
     text-align: center;
 }
@@ -14136,7 +14136,7 @@ body{
 }
 
 .contact .content .row .card .contact-icon{
-  color: #048C3F;
+  color: #9ba791;
   font-size: 4em;
   text-align: center;
 }
@@ -14219,7 +14219,7 @@ font-weight: 500;
   left: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(-135deg, #048C3F, #32cd32);
+  background: linear-gradient(-135deg, #9ba791, #32cd32);
   clip-path: circle(25px at calc(100% - 45px) 45px);
   transition: all 0.3s ease-in-out;
 }
@@ -14241,7 +14241,7 @@ font-weight: 500;
   color: #fff;
   font-size: 20px;
   cursor: pointer;
-  background: linear-gradient(-135deg, #048C3F, #32cd32);
+  background: linear-gradient(-135deg, #9ba791, #32cd32);
   transition: all 0.3s ease; 
 }
 #active:checked ~ .menu-btn{
