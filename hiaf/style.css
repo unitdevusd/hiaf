@@ -13891,12 +13891,12 @@ textarea {
     font-size: 30px;
   }
   section.headertop p {
-    font-size: 28px;
+    font-size: 52px;
     line-height: normal;
   }
   section.headertop p span {
     display: block;
-    font-size: 17px;
+    font-size: 22px;
   }
   .headertop ul li:last-child a {
     border: 1px solid #ddd;
