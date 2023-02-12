@@ -13631,8 +13631,8 @@ section.headertop {
   height: 100%;
   background: #9ba791;
   color: #fff;
-  /* margin:0;
-  padding:0; */
+  margin:0;
+  /* padding:0; */
 }
 .rel {
   position: relative;
@@ -13927,7 +13927,7 @@ textarea {
   }
   section.headertop {
     color: #fff;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
   }
   .sitesection header {
     padding-bottom: 0;
